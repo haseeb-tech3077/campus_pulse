@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Campus Pulse",
+    "slug": "campus-pulse",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#f0f2f8"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#f0f2f8"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
